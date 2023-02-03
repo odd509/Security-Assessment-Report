@@ -1,3 +1,2 @@
-# Security-Assessment-Report
-A security assessment report with an exploit to the analyzed code
-
+# Security Assessment Report
+A Security Assessment Report for a website's source code and database with an exploit that can extract a selected user's password.
